@@ -1,4 +1,4 @@
-# Mega AI Tool
+# AI CLI TOOL
 
 ## What this project does
 An all-in-one AI powered CLI tool built with Google Gemini API.
